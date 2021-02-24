@@ -1,3 +1,4 @@
 # Cloud-Technology 
 
-## Building Microsoft Azure Data pipelines
+## 1. Building Microsoft Azure Data pipelines
+## 2. Snowflake Introduction
